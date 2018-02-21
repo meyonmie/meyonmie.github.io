@@ -13,7 +13,7 @@
     "versionFirst": "4.3.2",
     "uniqCompNum": 55,
     "versionPublish": "4.3.2",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/img-20180104-153723-128x170.png",
     "noImageResize": ""
   },
   "pages": {
@@ -37,7 +37,7 @@
             "collapsed": false,
             "transparent": false,
             "color": "#2c2c2c",
-            "hamburgerColor": "#d14841"
+            "hamburgerColor": "#fac51c"
           },
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>",
           "_tags": [
@@ -54,7 +54,7 @@
               "background": "#2c2c2c"
             },
             ".mbr-navbar__hamburger": {
-              "color": "#d14841"
+              "color": "#fac51c"
             },
             ".mbr-navbar__items a": {
               "font-size": "14px",
@@ -144,7 +144,7 @@
             "collapsed": false,
             "transparent": false,
             "color": "#2c2c2c",
-            "hamburgerColor": "#d14841"
+            "hamburgerColor": "#fac51c"
           },
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>",
           "_tags": [
@@ -278,7 +278,7 @@
             "collapsed": false,
             "transparent": false,
             "color": "#2c2c2c",
-            "hamburgerColor": "#d14841"
+            "hamburgerColor": "#fac51c"
           },
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>",
           "_tags": [
@@ -345,7 +345,7 @@
               "state": "ok"
             }
           },
-          "text1": "<p><b><i>ADDRESS</i></b><br>new port street &nbsp;world wide mission high school building &amp; duportroad william bean institute world wide mission paynesville monrovia liberia<br><br>\n<strong>CONTACTS</strong><br>\nEmail: cvote@gmail.coml</p><p>\nPhone: +0880708818</p><p>0775575066</p><p><br></p>",
+          "text1": "<p><b><i>ADDRESS</i></b><br>new port street &nbsp;world wide mission high school building &amp; duportroad william bean institute world wide mission paynesville monrovia liberia<br><br>\n<strong>CONTACTS</strong><br>\nEmail: cvote@gmail.com</p><p>\nPhone: +2310880708818</p><p>+2310775575066</p><p><br></p>",
           "text2": "<ul class=\"mbr-contacts__list\"><li><br></li><li><br></li><li><br></li></ul>",
           "_tags": [
             "Theme"
@@ -377,7 +377,7 @@
             "collapsed": false,
             "transparent": false,
             "color": "#2c2c2c",
-            "hamburgerColor": "#d14841"
+            "hamburgerColor": "#fac51c"
           },
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>",
           "_tags": [
@@ -498,7 +498,7 @@
             "collapsed": false,
             "transparent": false,
             "color": "#2c2c2c",
-            "hamburgerColor": "#d14841"
+            "hamburgerColor": "#fac51c"
           },
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>",
           "_tags": [
@@ -574,7 +574,7 @@
             "collapsed": false,
             "transparent": false,
             "color": "#2c2c2c",
-            "hamburgerColor": "#d14841"
+            "hamburgerColor": "#fac51c"
           },
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>",
           "_tags": [
@@ -657,7 +657,7 @@
             "collapsed": false,
             "transparent": false,
             "color": "#2c2c2c",
-            "hamburgerColor": "#d14841"
+            "hamburgerColor": "#fac51c"
           },
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>",
           "_tags": [
@@ -774,7 +774,7 @@
             "collapsed": false,
             "transparent": false,
             "color": "#2c2c2c",
-            "hamburgerColor": "#d14841"
+            "hamburgerColor": "#fac51c"
           },
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>",
           "_tags": [
@@ -876,7 +876,7 @@
             "collapsed": false,
             "transparent": false,
             "color": "#2c2c2c",
-            "hamburgerColor": "#d14841"
+            "hamburgerColor": "#fac51c"
           },
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>",
           "_tags": [
